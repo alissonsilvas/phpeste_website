@@ -9,11 +9,8 @@
 nav ul a,
 nav .brand-logo {
   color: #5B1E00;
-}
-
-.img-logo-topo{
-  width: 180px;
-  margin-top: 15px;
+  z-index: 1000;
+  align-items: center;
 }
 
 p {
@@ -26,7 +23,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 852px;
+  min-height: 1024px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
