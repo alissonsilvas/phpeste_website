@@ -7742,6 +7742,7 @@ input[type=range]::-ms-thumb {
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 997;
   display: none;
+  margin-left: 300px;
 }
 
 /*
